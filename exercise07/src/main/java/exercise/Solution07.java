@@ -27,14 +27,14 @@ public class Solution07 {
 
         int roomWidth = scan.nextInt();
 
-        System.out.printf("You entered dimensions of %d feet by %d feet", roomLength, roomWidth);
+        System.out.printf("You entered dimensions of %d feet by %d feet%n", roomLength, roomWidth);
 
         double areaFeet = roomLength * roomWidth;
         double areaMeters = (roomLength * feetToMetersConversionRate) * (roomWidth * feetToMetersConversionRate);
 
         System.out.println("The area is...");
-        System.out.printf("%f square feet", areaFeet);
-        System.out.printf("%f square meters", areaMeters);
+        System.out.printf("%f square feet%n", areaFeet);
+        System.out.printf("%f square meters%n", areaMeters);
 
     }
 }

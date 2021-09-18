@@ -19,6 +19,10 @@ test {
     useJUnitPlatform()
 }
 
+run {
+    standardInput = System.in
+}
+
 application {
     mainClass = "src/main/java/exercise/Solution07.java"
 }
