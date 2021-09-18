@@ -41,6 +41,5 @@ public class Solution08 {
         System.out.printf("Each person gets %d pieces of pizza%n", slicesPerPerson);
 
         System.out.printf("There are %d leftover pieces%n", remainder);
-
     }
 }
