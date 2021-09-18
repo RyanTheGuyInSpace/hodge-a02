@@ -36,7 +36,11 @@ public class Solution08 {
 
         int remainder = numTotalSlices % numPeople;
 
-        System.out.println("");
+        System.out.printf("%d people with %d pizzas (%d slices)%n", numPeople, numPizzas, numTotalSlices);
+
+        System.out.printf("Each person gets %d pieces of pizza%n", slicesPerPerson);
+
+        System.out.printf("There are %d leftover pieces%n", remainder);
 
     }
 }
