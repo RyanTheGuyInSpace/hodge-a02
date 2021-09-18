@@ -1,0 +1,13 @@
+
+X
+java:S1854%"=Remove this useless assignment to local variable "remainder".(ƒÆáªøÿÿÿÿ
+^
+java:S1854#"CRemove this useless assignment to local variable "slicesPerPerson".( Â÷˜úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÊˆíþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šîˆºúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿½Ü¿
+O
+java:S1481#"4Remove this unused "slicesPerPerson" local variable.( Â÷˜úÿÿÿÿ
+I
+java:S1481%".Remove this unused "remainder" local variable.(ƒÆáªøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ

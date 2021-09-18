@@ -1,0 +1,10 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß—à»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰´–¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´½‚ý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñó—â
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(·Ü‚û8¾‹ÎÌ¿/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(š¶¯£8ÏŽÐÌ¿/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(…ÓÇü8çÆÐÌ¿/
+c
+java:S2184 "HCast one of the operands of this multiplication operation to a "double".(¥í—†ùÿÿÿÿ
