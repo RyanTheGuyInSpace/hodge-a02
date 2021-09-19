@@ -1,0 +1,15 @@
+
+S
+java:S1854""8Remove this useless assignment to local variable "unit".(”º’üÿÿÿÿ
+S
+java:S1854)"8Remove this useless assignment to local variable "unit".(“ðùºýÿÿÿÿ
+?
+java:S1481")Remove this unused "unit" local variable.(ïàßº
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®º×´úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôêÇ‹
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(çÌÅ”
+N	java:S106("9Replace this use of System.out or System.err by a logger.(çÌÅ”
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÚÕ–Øûÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ì½æ¨øÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(´›°È
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
