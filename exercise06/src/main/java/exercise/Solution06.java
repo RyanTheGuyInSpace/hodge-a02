@@ -31,8 +31,6 @@ public class Solution06 {
 
         System.out.printf("You have %d years left until you can retire.%n", remainingYearsTillRetirement);
 
-        //int currentYear = Calendar.getInstance().getTime();
-
         int year = Integer.parseInt(new SimpleDateFormat("yyyy").format(Calendar.getInstance().getTime()));
 
         System.out.printf("It's %d, so you can retire in %d", year, year + remainingYearsTillRetirement);
