@@ -1,0 +1,20 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ü²¼	
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù™ÚÄ
+>	java:S108$")Either remove or fill this block of code.(”ı¾
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ú¦–Åûÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(³¶ĞÈ
+>	java:S1084")Either remove or fill this block of code.(”ı¾
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ó“àò
+Q	java:S125@"<This block of commented-out lines of code should be removed.(³¶ĞÈ
+>	java:S108D")Either remove or fill this block of code.(”ı¾
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(²òºÖûÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(³¶ĞÈ
+>	java:S108T")Either remove or fill this block of code.(”ı¾
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¿‹¾à
+M	java:S106`"9Replace this use of System.out or System.err by a logger.(Ù÷ÎP
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(İÓ¸š
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Š³ûÿÿÿÿ
