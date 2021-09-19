@@ -5,6 +5,7 @@
 
 package exercise;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Scanner;
 
@@ -28,11 +29,13 @@ public class Solution06 {
 
         int remainingYearsTillRetirement = targetRetirementAge - currentAge;
 
-        System.out.printf("You have %d years left until you can retire.", remainingYearsTillRetirement);
+        System.out.printf("You have %d years left until you can retire.%n", remainingYearsTillRetirement);
 
-        int currentYear = Calendar.YEAR;
+        //int currentYear = Calendar.getInstance().getTime();
 
-        System.out.printf("It's %d, so you can retire in %d", currentYear, currentYear + remainingYearsTillRetirement);
+        int year = Integer.parseInt(new SimpleDateFormat("yyyy").format(Calendar.getInstance().getTime()));
+
+        System.out.printf("It's %d, so you can retire in %d", year, year + remainingYearsTillRetirement);
 
         scan.close();
     }
